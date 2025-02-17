@@ -1,1 +1,1 @@
-# Laravel
+Laravel CRUD application provides a structured way to manage data, allowing users to easily create, view, update, and delete records.  Laravel's features, like Eloquent ORM, routing, and Blade templating, greatly simplify the development process.Want to get contribution from other developers to make this project fruitful.
